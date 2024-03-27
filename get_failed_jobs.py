@@ -1,6 +1,6 @@
 # This script outputs the failed jobs for a workflow. It will show the workflow id and jobs ids which are 
 # failed in a specific workflow
-
+# Please export API_TOKEN as a ENV VAR from circle ci (personal API token) before running
 
 
 
